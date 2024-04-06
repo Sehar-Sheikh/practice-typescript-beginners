@@ -1,3 +1,5 @@
+//How to make a tyescript project from begginning.
+
 1. Make a folder and initialize your typescript project using command "npm init -y" in cmd, it will make (package.json) file in your root directory.
 2. Now run the command "tsc --init", it will create (tsconfig.json) file in you root directory.
 3. Open your project in VScode and make index.ts file and run the above code respectively.
